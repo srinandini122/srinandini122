@@ -1,17 +1,26 @@
-# Hi, I'm Sri Nandini 👋
+Hi 👋, I'm Sri Nandini
 
-🎓 CSE Student  
-💻 Aspiring Front-End Developer  
-🌱 Currently learning HTML, CSS & JavaScript  
+🚀 Explorer | 🎓 B.Tech Student | Learner
 
-## 🛠 Skills
-- HTML5
-- CSS3
-- JavaScript
+## About Me
+🎓 B.Tech in Computer Science  
+🌱 Interested in technology and learning new skills  
+✨ Always exploring new tools and opportunities  
 
-## 📌 Projects
-- Portfolio Website
-- More projects coming soon...
+## Skills
+HTML  
+CSS  
+Python (Basics)
 
-## 📫 Connect with me
-- GitHub: https://github.com/srinandini122
+## Projects
+📘 Portfolio Website  
+🌐 Mini Web Projects
+
+## Certifications
+🏅 NPTEL – Industrial Internet of Things & Industry 4.0  
+🏅 Salesforce Certified  
+
+## Let's Connect
+LinkedIn: https://www.linkedin.com/in/sri-nandini-nuthalapati-177291375/
+
+🌱 Always learning and improving.
