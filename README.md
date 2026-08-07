@@ -20,7 +20,4 @@ Python (Basics)
 🏅 NPTEL – Industrial Internet of Things & Industry 4.0  
 🏅 Salesforce Certified  
 
-## Let's Connect
-LinkedIn: https://www.linkedin.com/in/sri-nandini-nuthalapati-177291375/
-
 🌱 Always learning and improving.
